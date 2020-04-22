@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="FeaturesTest"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="1.299">
+  <properties />
+  
+  
+            <testcase name="verifyUserShouldNavigateToFeaturePage" time="1.299" classname="com.orangehrm.testsuite.FeaturesTest" />
+      
+</testsuite>

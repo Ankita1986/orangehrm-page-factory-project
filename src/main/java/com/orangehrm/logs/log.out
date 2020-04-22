@@ -1,0 +1,4 @@
+2020-04-19 17:04:875 INFO  BrowserSelector :26 - Launching Chrome Browser
+2020-04-19 17:04:666 INFO  HomePage :26 - Clicking on Features link [[ChromeDriver: chrome on WINDOWS (5c01be588810074b691d1e107b5513cf)] -> xpath: //a[contains(text(),'Features')]]
+2020-04-19 17:04:897 INFO  BrowserSelector :26 - Launching Chrome Browser
+2020-04-19 17:04:772 INFO  HomePage :26 - Clicking on Features link [[ChromeDriver: chrome on WINDOWS (2a575e873e63d3d65fbbe6d660f57fdc)] -> xpath: //a[contains(text(),'Features')]]
